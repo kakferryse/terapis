@@ -1,0 +1,6 @@
+{
+  "name": "Rumah Terapi Sehat Syariah & Sport Terapi Center Lubuklinggau",
+  "description": "Landing page resmi Rumah Terapi Sehat Syariah & Sport Terapi Center Lubuklinggau. Layanan pijat relaksasi, pijat tradisional, bekam, refleksi, akupuntur, guasha, dan sport massage dengan opsi panggilan ke rumah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
